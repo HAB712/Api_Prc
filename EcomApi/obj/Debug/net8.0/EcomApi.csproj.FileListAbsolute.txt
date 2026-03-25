@@ -250,3 +250,4 @@ F:\EcomApi\EcomApi\obj\Debug\net8.0\refint\EcomApi.dll
 F:\EcomApi\EcomApi\obj\Debug\net8.0\EcomApi.pdb
 F:\EcomApi\EcomApi\obj\Debug\net8.0\EcomApi.genruntimeconfig.cache
 F:\EcomApi\EcomApi\obj\Debug\net8.0\ref\EcomApi.dll
+F:\EcomApi\EcomApi\bin\Debug\net8.0\EcomApi.staticwebassets.runtime.json

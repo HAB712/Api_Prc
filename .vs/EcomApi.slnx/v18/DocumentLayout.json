@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\EcomApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\controllers\\catecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\controllers\\catecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,36 +15,36 @@
       "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\model\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\model\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\model\\ecomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\model\\ecomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\migrations\\ecomdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\migrations\\ecomdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\controllers\\prodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\controllers\\prodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\migrations\\20260309033655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\migrations\\20260309033655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\model\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\model\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\model\\ecomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\model\\ecomdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|f:\\ecomapi\\ecomapi\\migrations\\20260309033655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8DFC4C-E226-5514-9BEA-24825E206598}|EcomApi\\EcomApi.csproj|solutionrelative:ecomapi\\migrations\\20260309033655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Model\\Category.cs",
               "RelativeDocumentMoniker": "EcomApi\\Model\\Category.cs",
@@ -76,33 +80,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "EcomDBContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Migrations\\EcomDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EcomApi\\Migrations\\EcomDBContextModelSnapshot.cs",
+              "ToolTip": "F:\\EcomApi\\EcomApi\\Migrations\\EcomDBContextModelSnapshot.cs",
+              "RelativeToolTip": "EcomApi\\Migrations\\EcomDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:15:57.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CateController.cs",
               "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Controllers\\CateController.cs",
               "RelativeDocumentMoniker": "EcomApi\\Controllers\\CateController.cs",
               "ToolTip": "F:\\EcomApi\\EcomApi\\Controllers\\CateController.cs",
               "RelativeToolTip": "EcomApi\\Controllers\\CateController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwDgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T03:31:27.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ProdController.cs",
               "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Controllers\\ProdController.cs",
               "RelativeDocumentMoniker": "EcomApi\\Controllers\\ProdController.cs",
               "ToolTip": "F:\\EcomApi\\EcomApi\\Controllers\\ProdController.cs",
               "RelativeToolTip": "EcomApi\\Controllers\\ProdController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwHcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T03:31:11.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\EcomApi\\EcomApi\\appsettings.json",
               "RelativeDocumentMoniker": "EcomApi\\appsettings.json",
@@ -115,33 +132,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Program.cs",
               "RelativeDocumentMoniker": "EcomApi\\Program.cs",
               "ToolTip": "F:\\EcomApi\\EcomApi\\Program.cs",
               "RelativeToolTip": "EcomApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T02:19:34.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EcomDBContext.cs",
-              "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Model\\EcomDBContext.cs",
-              "RelativeDocumentMoniker": "EcomApi\\Model\\EcomDBContext.cs",
-              "ToolTip": "F:\\EcomApi\\EcomApi\\Model\\EcomDBContext.cs",
-              "RelativeToolTip": "EcomApi\\Model\\EcomDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T02:14:35.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Model\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "EcomApi\\Model\\CategoryDTO.cs",
@@ -155,6 +159,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "EcomApi\\Model\\Product.cs",
+              "ToolTip": "F:\\EcomApi\\EcomApi\\Model\\Product.cs",
+              "RelativeToolTip": "EcomApi\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:13:14.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Model\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "EcomApi\\Model\\ProductDTO.cs",
+              "ToolTip": "F:\\EcomApi\\EcomApi\\Model\\ProductDTO.cs",
+              "RelativeToolTip": "EcomApi\\Model\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:13:34.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EcomDBContext.cs",
+              "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Model\\EcomDBContext.cs",
+              "RelativeDocumentMoniker": "EcomApi\\Model\\EcomDBContext.cs",
+              "ToolTip": "F:\\EcomApi\\EcomApi\\Model\\EcomDBContext.cs",
+              "RelativeToolTip": "EcomApi\\Model\\EcomDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:14:35.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20260309033655_InitialCreate.cs",
               "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Migrations\\20260309033655_InitialCreate.cs",
               "RelativeDocumentMoniker": "EcomApi\\Migrations\\20260309033655_InitialCreate.cs",
@@ -163,30 +205,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T03:36:56.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Model\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "EcomApi\\Model\\ProductDTO.cs",
-              "ToolTip": "F:\\EcomApi\\EcomApi\\Model\\ProductDTO.cs",
-              "RelativeToolTip": "EcomApi\\Model\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T02:13:34.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "F:\\EcomApi\\EcomApi\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "EcomApi\\Model\\Product.cs",
-              "ToolTip": "F:\\EcomApi\\EcomApi\\Model\\Product.cs",
-              "RelativeToolTip": "EcomApi\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T02:13:14.381Z"
             }
           ]
         },

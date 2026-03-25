@@ -1,7 +1,18 @@
+using ConsumeApi.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+// Register HttpClient for API
+builder.Services.AddHttpClient<StoreApiService>(client =>
+{
+    client.BaseAddress = new Uri("http://localhost:5178/");
+});
+
+
 
 var app = builder.Build();
 
