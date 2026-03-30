@@ -1,5 +1,6 @@
 ﻿using EcomApi.Model;
 using Humanizer;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -8,6 +9,7 @@ namespace EcomApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AllowAll")]
     public class ProdController : ControllerBase
     {
         private readonly EcomDBContext context;
@@ -62,7 +64,7 @@ namespace EcomApi.Controllers
         {
             var check = await context.Products.FindAsync(id);
 
-            if (check != null)
+            if (check == null)
                 return NotFound();
 
             if (!ModelState.IsValid)
@@ -113,7 +115,7 @@ namespace EcomApi.Controllers
         {
             var del = await context.Products.FindAsync(id);
 
-            if (del != null)
+            if (del == null)
                 return NotFound();
 
             if (!string.IsNullOrEmpty(del.ImagePath))

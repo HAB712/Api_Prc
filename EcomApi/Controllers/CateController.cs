@@ -1,4 +1,5 @@
 ﻿using EcomApi.Model;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -8,6 +9,7 @@ namespace EcomApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AllowAll")]
     public class CateController : ControllerBase
     {
         private readonly EcomDBContext context;
@@ -39,22 +41,26 @@ namespace EcomApi.Controllers
             return Ok("Category Added Successfully");
         }
 
+
         [HttpPut("{id}")]
-        public async Task<IActionResult> editCate([FromForm] int id, CategoryDTO vm)
+        public async Task<IActionResult> editCate([FromRoute] int id, [FromBody] CategoryDTO vm)
         {
+            if (vm == null)
+                return BadRequest("Request body is null.");
+
             var check = await context.Categories.FindAsync(id);
 
-            if (check != null)
+            if (check == null)
                 return NotFound();
 
-            if(!ModelState.IsValid)
+            if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
             check.CateName = vm.CateName;
             context.Categories.Update(check);
             await context.SaveChangesAsync();
 
-            return Ok("Category UPadted");
+            return Ok("Category Updated");
         }
 
         [HttpDelete("{id}")]
@@ -63,7 +69,7 @@ namespace EcomApi.Controllers
         {
             var del = await context.Categories.FindAsync(id);
            
-            if (del != null)
+            if (del == null)
                 return NotFound();
 
             context.Categories.Remove(del);
